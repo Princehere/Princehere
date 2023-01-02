@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding webpages 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on html and css
-- 📫 How to reach me @princeraj11248@gamil.com
+- 📫 reach me at @princeraj11248@gamil.com
 
 <!---
 Princehere/Princehere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
